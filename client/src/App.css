@@ -1,0 +1,50 @@
+/* .App {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.form input {
+  width: 300px;
+  height: 60px;
+  margin: 10px;
+  font-size: 25px;
+}
+
+.card {
+  width: 500px;
+  height: 170px;
+  border: 2px solid black;
+  border-radius: 15px;
+  margin: 10px;
+}
+
+#update {
+  width: 100px;
+  height: 20px;
+  margin-bottom: 10px;
+} */
+
+#hForm {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("1512225.jpg");
+}
+
+.form-label,
+label {
+  color: #ccccbb;
+}
+
+img {
+  color: green;
+  font: 40px Impact;
+  text-align: center;
+  vertical-align: middle;
+}
